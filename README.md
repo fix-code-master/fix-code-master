@@ -6,4 +6,4 @@ I work remotely and like to travel a lot
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px"></code>
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" height="30px"></code>
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px"></code>
-<code><img src="https://www.freepnglogos.com/images/html5-logo-31819.html" height="30px"></code>
+<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="30px"></code>
