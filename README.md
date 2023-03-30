@@ -3,6 +3,6 @@ I work remotely and like to travel a lot
 
 ### Languages and tools I work with: 
 
-<code><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4Y9In50nCL4I5S30RK_8kUYEOmzzCTGE8O6b_XOQZBr0UZl-r" /><code/>
+<code><img src="https://www.pngfind.com/pngs/m/597-5977496_html5-logo-html-css-js-react-hd-png.png" height="30px" /><code/>
 
 
