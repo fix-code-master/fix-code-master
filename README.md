@@ -1,4 +1,4 @@
-### Hi, I'm Ibragimov Yashnarbek <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="27px"> <img src="https://media.giphy.com/media/05zW9D5WgvEn72eNMk/giphy.gif" width="40px">
+### Hi, I'm Ibragimov Yashnarbek <img src="https://media.giphy.com/media/05zW9D5WgvEn72eNMk/giphy.gif" width="40px">
 I work remotely and like to travel a lot 
 
 ### Languages and tools I work with: 
