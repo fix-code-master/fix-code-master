@@ -3,10 +3,7 @@ I work remotely and like to travel a lot
 
 ### Languages and tools I work with: 
 
-<code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" height="30px"></code> 
-<code><img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" height="30px"></code>
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" height="40px">
 <img src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default" height="40px">
-<code><img src="https://www.pngkit.com/png/full/222-2224803_react-redux-react-js-and-redux.png" height="30px"></code>
-<code><img src="https://www.pngkit.com/png/detail/222-2224803_react-redux-react-js-and-redux.png" height="30px"></code>
-<code><img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFZ_NvihIAHeeUx7AE6IuJ3gsU5Wa4qAWcPKAyNXG2SZzNOD84" height="30px"></code>
+<img src="https://www.pngkit.com/png/full/222-2224803_react-redux-react-js-and-redux.png" height="40px">
 
