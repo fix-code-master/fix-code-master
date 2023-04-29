@@ -11,3 +11,4 @@ Practical projects: <br/>
 🔗 https://app.netlify.com/sites/mercedes-benz-one-page/ <br/>
 🔗 https://app.netlify.com/sites/serial-one-page-with-webpack/ <br/>
 🔗 https://movie-app-using-hooks.netlify.app/ <br/>
+🔗 https://movie-app-using-classes.netlify.app/ <br/>
