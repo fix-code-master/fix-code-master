@@ -1,4 +1,4 @@
-### Hi, I'm Ibragimov Yashnar  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px">
+### Hi, I'm Yashnar  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="35px">
 I work remotely and like to travel a lot 
 
 ### Languages and tools I work with: 
