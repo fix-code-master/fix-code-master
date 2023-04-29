@@ -8,8 +8,8 @@ I work remotely and like to travel a lot
 <img width="20px"> <img src="https://www.pngkit.com/png/full/222-2224803_react-redux-react-js-and-redux.png" height="40px"> <br/>
 Practical projects: <br/>
 🔗 https://twitter-analog-with-react-classes.netlify.app/ <br/>
-🔗 https://app.netlify.com/sites/mercedes-benz-one-page/ <br/>
-🔗 https://app.netlify.com/sites/serial-one-page-with-webpack/ <br/>
+🔗 https://mercedes-benz-one-page.netlify.app/ <br/>
+🔗 https://serial-one-page-with-webpack.netlify.app/ <br/>
 🔗 https://movie-app-using-hooks.netlify.app/ <br/>
 🔗 https://movie-app-using-classes.netlify.app/ <br/>
 🔗 https://restaurant-spa-routing.netlify.app/ <br/>
