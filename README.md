@@ -10,4 +10,4 @@ Practical projects: <br/>
 🔗 https://twitter-analog-with-react-classes.netlify.app/ <br/>
 🔗 https://app.netlify.com/sites/mercedes-benz-one-page/ <br/>
 🔗 https://app.netlify.com/sites/serial-one-page-with-webpack/ <br/>
-🔗 https://react-app-work-with-api.netlify.app/
+🔗 https://react-app-using-classes.netlify.app/ <br/>
