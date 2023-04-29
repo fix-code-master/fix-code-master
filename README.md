@@ -12,3 +12,5 @@ Practical projects: <br/>
 🔗 https://app.netlify.com/sites/serial-one-page-with-webpack/ <br/>
 🔗 https://movie-app-using-hooks.netlify.app/ <br/>
 🔗 https://movie-app-using-classes.netlify.app/ <br/>
+🔗 https://restaurant-spa-routing.netlify.app/ <br/>
+🔗 https://shop-now-react-app.netlify.app/
